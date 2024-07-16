@@ -1,0 +1,15 @@
+.home {
+    border: 1px solid #333;
+    border-radius: 3px;
+    background-color: #6475c0;
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.home li {
+    margin: 10px;
+    font-size: 20px;
+    text-align: left;
+}

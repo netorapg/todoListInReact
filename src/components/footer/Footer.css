@@ -1,0 +1,8 @@
+.footer {
+    border: 1px solid #333;
+    border-radius: 3px;
+    background-color: #454b57;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
